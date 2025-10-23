@@ -62,7 +62,3 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
-<div align="center">
-  <img src="[your-gif-here-footer]" width="800" alt="Footer GIF">
-</div>
