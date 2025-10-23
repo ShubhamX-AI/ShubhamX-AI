@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="[your-gif-here-header]" width="800" alt="Header GIF">
+  <img src="https://github.com/ShubhamX-AI/ShubhamX-AI/blob/main/dinogame.gif" width="500" alt="Header GIF">
 </div>
 
 # 👋 Hey there! I'm Shubham Halder.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3AzZHBjNXZyZDBzZzF2cGxpdWhudnp2cjhxZzRjOW9pZmV0ZHRpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="400" alt="Coding GIF">
-</div>
 
 I'm a passionate **AI/ML Engineer** and **Python Developer** with a knack for building intelligent, end-to-end solutions that make a real impact. I thrive on architecting scalable backends, deploying production-ready AI models, and bringing ideas to life with code.
 
@@ -20,7 +16,7 @@ I'm a passionate **AI/ML Engineer** and **Python Developer** with a knack for bu
 -   🤖 **Automation:** Creating smart systems that streamline processes and boost efficiency.
 
 <div align="center">
-  <img src="[your-gif-here-skills]" width="600" alt="Skills GIF">
+  <img src="https://github.com/ShubhamX-AI/ShubhamX-AI/blob/main/profile.gif" width="200" alt="Coding GIF">
 </div>
 
 ---
