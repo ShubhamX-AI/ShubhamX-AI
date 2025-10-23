@@ -44,7 +44,7 @@ Here are some of the technologies I enjoy working with:
 Here's a little snake game you can play right here on my profile. See if you can beat the high score!
 
 <div align="center">
-  <img src="https://github.com/shubhamhalder/shubhamhalder/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+  <img src="https://raw.githubusercontent.com/shubhamhalder/shubhamhalder/output/github-contribution-grid-snake.svg" alt="Snake Game">
 </div>
 
 *(This is a real, playable game powered by GitHub Actions!)*
