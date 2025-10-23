@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ShubhamX-AI/ShubhamX-AI/blob/main/dinogame.gif" width="500" alt="Header GIF">
+  <img src="https://github.com/ShubhamX-AI/ShubhamX-AI/blob/main/headergif1.gif" width="1100" alt="Header GIF">
 </div>
 
 # 👋 Hey there! I'm Shubham Halder.
