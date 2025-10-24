@@ -27,23 +27,11 @@ Here are some of the technologies I enjoy working with:
 
 | **Area**                  | **Technologies**                                                                                                        |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Programming & Frameworks** | `Python` `SQL` `FastAPI` `Flask` `Django`                                                                               |
-| **AI/ML & GenAI**         | `PyTorch` `TensorFlow` `Transformers` `LangChain` `LlamaIndex` `OpenCV` `NLP` `Voice AI`                                    |
-| **Databases**             | `PostgreSQL` `Supabase` `MySQL` `MongoDB` `ChromaDB` `Neo4j`                                                                |
+| **Programming & Frameworks** | `Python` `SQL` `FastAPI` `Flask` `Django` `Node`                                                                               |
+| **AI/ML & GenAI**         | `PyTorch` `TensorFlow` `Transformers` `LangChain` `LlamaIndex` `OpenCV` `NLP` `TTS` `Prompt Engineering`                                    |
+| **Databases**             | `PostgreSQL` `Supabase` `MySQL` `MongoDB` `ChromaDB` `Neo4j` `Vector DBs`                                                                |
 | **DevOps/Cloud**          | `Docker` `Kubernetes` `GitHub Actions` `AWS (GPU)` `GCP` `Azure`                                                            |
-| **Other Tools**           | `Playwright` `Browser Automation` `Power BI`                                                                              |
-
----
-
-## 🎮 A Little Fun Before You Go!
-
-Here's a little snake game you can play right here on my profile. See if you can beat the high score!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shubhamhalder/shubhamhalder/output/github-contribution-grid-snake.svg" alt="Snake Game">
-</div>
-
-*(This is a real, playable game powered by GitHub Actions!)*
+| **Other Tools**           | `Playwright` `Browser Automation` `Power BI` `Web Scraping`                                                                              |
 
 ---
 
